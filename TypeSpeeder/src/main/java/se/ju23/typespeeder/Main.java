@@ -7,11 +7,10 @@ Zakaria Jaouhari, Emanuel Sleyman
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
-import se.ju23.typespeeder.databas.LeaderboardRepo;
-import se.ju23.typespeeder.databas.iUser;
-import se.ju23.typespeeder.logic.AttemptRepo;
-import se.ju23.typespeeder.logic.iGameTask;
-import se.ju23.typespeeder.iPatch;
+import se.ju23.typespeeder.interfaces.LeaderboardRepo;
+import se.ju23.typespeeder.interfaces.iUser;
+import se.ju23.typespeeder.interfaces.AttemptRepo;
+import se.ju23.typespeeder.interfaces.iGameTask;
 
 import java.util.Scanner;
 

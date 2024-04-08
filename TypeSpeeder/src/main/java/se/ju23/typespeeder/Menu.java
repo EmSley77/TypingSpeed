@@ -7,6 +7,7 @@ package se.ju23.typespeeder;
 import se.ju23.typespeeder.databas.Leaderboard;
 
 import se.ju23.typespeeder.databas.User;
+import se.ju23.typespeeder.interfaces.MenuService;
 import se.ju23.typespeeder.io.UserCreateUpdate;
 import se.ju23.typespeeder.io.Valid;
 import se.ju23.typespeeder.logic.Game;

@@ -3,7 +3,6 @@ package se.ju23.typespeeder.logic;
 2024-02-13
  */
 import se.ju23.typespeeder.databas.User;
-import se.ju23.typespeeder.databas.iUser;
 
 public class XPlevel {
 

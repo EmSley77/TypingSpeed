@@ -4,6 +4,7 @@ Zakaria Jaouhari, Emanuel Sleyman
 2024-02-20
  */
 
+import se.ju23.typespeeder.interfaces.iPatch;
 import se.ju23.typespeeder.io.Valid;
 
 import java.time.LocalDateTime;
